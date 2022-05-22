@@ -7,4 +7,8 @@ This Project is focused on automating the process of making a homeserver with to
 
 ```sudo apt install git```
 
->Clone this project
+>Clone this project by using the following command
+
+```sudo git clone https://github.com/Gurkiratsinghappzone/Linux-Home-Server.git ```
+
+
