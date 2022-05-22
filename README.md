@@ -10,5 +10,13 @@ This Project is focused on automating the process of making a homeserver with to
 >Clone this project by using the following command
 
 ```sudo git clone https://github.com/Gurkiratsinghappzone/Linux-Home-Server.git ```
+ 
+>After cloning type the following command
+
+```cd Linux-Home-Server```
+
+```chmod +x install.sh```
+
+```./install.sh```
 
 
