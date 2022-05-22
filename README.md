@@ -1,7 +1,7 @@
 # Linux-Home-Server
 - This project works perfectly fine on Linux distro , I haven't checked it on other distros
 This Project is focused on automating the process of making a homeserver with tools like ftp, Transmission, Sonarr , Radarr etc
->Git should be already installed on your device or you can install git by using command
+>Install git by using following command 
 
 ```sudo apt-get update```
 
