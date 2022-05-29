@@ -1,6 +1,6 @@
 # Linux-Home-Server
 - This project works perfectly fine on Ubuntu distro , I haven't checked it on other distros yet
-This Project is focused on automating the process of making a homeserver with tools like ftp, Transmission, Sonarr , Radarr , Heimdall , Plex etc
+This Project is focused on automating the process of making a homeserver with tools like ftp, Transmission, Sonarr , [Radarr](https://radarr.video/) , [Heimdall]() , Plex etc
 >Install git by using following command 
 
 ```sudo apt-get update```
@@ -18,5 +18,8 @@ This Project is focused on automating the process of making a homeserver with to
 ```chmod +x install.sh```
 
 ```./install.sh```
+
+*You need to setup the tools this script is only going to install these tools yet but I will update it soon with automatically setting up the tools installed*
+
 
 
