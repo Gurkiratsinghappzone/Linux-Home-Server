@@ -11,7 +11,7 @@ This Project is focused on automating the process of making a homeserver with to
 
 ```sudo git clone https://github.com/Gurkiratsinghappzone/Linux-Home-Server.git ```
  
->After cloning type the following command
+>After cloning type the following command type
 
 ```cd Linux-Home-Server```
 
